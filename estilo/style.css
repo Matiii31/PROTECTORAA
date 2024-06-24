@@ -1,0 +1,54 @@
+header, nav, footer {
+    text-align: center;
+    background-color: rgb(233, 236, 13)
+    color rgb(79, 11, 238);
+    padding: 10px;
+    display: flex;
+}
+header h1{
+    margin-left: 30%;
+    border: 5px solid black;
+    background-color: beige;
+}
+nav a{
+    margin-left: 21%;
+    border: 3px solid black;
+    background-color: rgb(255, 255, 255);
+    width: 70px;
+    height: 20px;
+}
+main{
+    display: block;
+}
+main div{
+    display: flex;
+    text-align: center;
+    margin-left: 14%;
+    
+
+}
+
+article {
+    margin:20px;
+    border: 3px solid black;
+    padding: 10px;
+    position: relative;
+    
+    
+}
+
+.texto{
+    position: relative;
+    top:15%;    
+}
+
+body{
+    background: linear-gradient(rgb(160, 141, 230), rgb(103, 159, 187));
+}
+
+.logo{
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+
